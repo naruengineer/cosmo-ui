@@ -1,5 +1,5 @@
 // StarDetailScreen.kt
-package com.yourcompany.cosmo.android.ui.detail
+package cosmo.android.ui.detail
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*

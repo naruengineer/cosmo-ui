@@ -1,5 +1,5 @@
 // Theme.kt
-package com.yourcompany.cosmo.android.theme
+package cosmo.android.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.*

@@ -4,8 +4,8 @@ package com.yourcompany.cosmo.android
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.yourcompany.cosmo.android.nav.CosmoNavGraph
-import com.yourcompany.cosmo.android.theme.CosmoTheme
+import cosmo.android.nav.CosmoNavGraph
+import cosmo.android.theme.CosmoTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

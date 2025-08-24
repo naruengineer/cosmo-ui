@@ -1,5 +1,5 @@
 // NavGraph.kt
-package com.yourcompany.cosmo.android.nav
+package cosmo.android.nav
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.*

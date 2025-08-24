@@ -1,12 +1,14 @@
 // UniverseScreen.kt
-package com.yourcompany.cosmo.android.ui.universe
+package cosmo.android.ui.universe
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
-import com.yourcompany.cosmo.android.ui.universe.components.StarField
-import com.yourcompany.cosmo.android.fake.fakeStarsForGalaxy
+import cosmo.android.ui.universe.components.StarField
+import cosmo.android.fake.fakeStarsForGalaxy
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.ArrowForward
 
 @Composable
 fun UniverseScreen(

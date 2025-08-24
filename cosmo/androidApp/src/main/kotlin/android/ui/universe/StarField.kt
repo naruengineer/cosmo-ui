@@ -1,5 +1,5 @@
 // StarField.kt（パララックス3層＋クリック）
-package com.yourcompany.cosmo.android.ui.universe.components
+package cosmo.android.ui.universe.components
 
 import androidx.compose.animation.core.*
 import androidx.compose.foundation.Canvas
@@ -10,7 +10,7 @@ import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.input.pointer.pointerInput
 import kotlin.math.roundToInt
-import com.yourcompany.cosmo.android.fake.Star
+import cosmo.android.fake.Star
 
 @Composable
 fun StarField(

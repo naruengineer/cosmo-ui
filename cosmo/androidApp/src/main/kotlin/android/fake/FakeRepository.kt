@@ -1,5 +1,5 @@
 // FakeRepository.kt
-package com.yourcompany.cosmo.android.fake
+package cosmo.android.fake
 
 data class Star(val id: String, val name: String, val x: Float, val y: Float, val genre: String)
 
